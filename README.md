@@ -16,3 +16,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+/*
+Confeccionar un programa que pida por teclado tres notas de un alumno,
+calcule el promedio e imprima alguno de estos mensajes:
+Si el promedio es >=7 mostrar "Promocionado".
+Si el promedio es >=4 y <7 mostrar "Regular".
+Si el promedio es <4 mostrar "Reprobado".
+*/
